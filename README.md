@@ -4,4 +4,4 @@
 
 - :car: I’m currently working on detecting distracted drivers using computer vision. 
 - :question: Ask me how I used deep learning to predict the quality of red wine or to classify facial expressions.
-- 📫 How to reach me: Send me an email at mainakmayukh2000@gmail.com
+- 📫 How to reach me: telegram @Mainak_09 

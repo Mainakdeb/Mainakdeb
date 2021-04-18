@@ -4,8 +4,6 @@
 [![blog](https://img.shields.io/twitter/url?color=Black&label=Blog&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fblog%2F)](https://mainakdeb.github.io/)
 
 
-
-* Member + mentor @[amFOSS](https://amfoss.in/)
 * I'm helping to build deep-learning based tools that help accelerate research in data driven developmental biology @[devolearn](https://github.com/DevoLearn/devolearn)
 * I spend my free time participating in [Hackathons](https://devpost.com/mainakmayukh2000) and building projects. 
 

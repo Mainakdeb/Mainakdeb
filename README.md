@@ -6,6 +6,7 @@
 
 * :sunny: [Google Summer of Code 2021](https://github.com/devoworm/GSoC-2021/tree/main/project-3.1) @ [INCF](https://incf.org/)
 * :microscope: I'm helping to build deep-learning based tools that help accelerate research in data driven developmental biology @[devolearn](https://github.com/DevoLearn/devolearn)
+* :mag_right: Bio-Inspired design @[Hybrid Design Lab](https://www.hybriddesignlab.org/), University of Campania, Italy.
 * :coffee: I spend my free time participating in [Hackathons](https://devpost.com/mainakmayukh2000) and building projects. 
 
 

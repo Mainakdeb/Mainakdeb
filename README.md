@@ -4,7 +4,7 @@
 [![blog](https://img.shields.io/twitter/url?color=Black&label=Blog&style=flat-square&url=https%3A%2F%2Fmayukhdeb.github.io%2Fblog%2F)](https://mainakdeb.github.io/)
 
 
-* :brain: ML Research @[Artflow.ai](https://artflow.ai/)
+* :brain: Ex ML Research @[Artflow.ai](https://artflow.ai/)
 * :sunny: [Google Summer of Code 2021](https://github.com/devoworm/GSoC-2021/tree/main/project-3.1) @ [INCF](https://incf.org/)
 * :microscope: I'm helping to build deep-learning based tools that help accelerate research in data driven developmental biology @[devolearn](https://github.com/DevoLearn/devolearn)
 * :mag_right: Bio-Inspired design @[Hybrid Design Lab](https://www.hybriddesignlab.org/), University of Campania, Italy.

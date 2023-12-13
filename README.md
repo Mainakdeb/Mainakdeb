@@ -10,9 +10,6 @@
 * :mag_right: Bio-Inspired design @[Hybrid Design Lab](https://www.hybriddesignlab.org/), University of Campania, Italy.
 * :coffee: I spend my free time participating in [Hackathons](https://devpost.com/mainakmayukh2000) and building projects. 
 
-
-[![Mainak's github stats](https://github-readme-stats.vercel.app/api?username=Mainakdeb&hide=["contribs","prs"]&show_icons=true&title_color=fff&icon_color=79ff97&text_color=79ff97&bg_color=151515)](https://github.com/Mainakdeb)
-
 📫 How to reach me: 
 * telegram [@Mainak_09](https://t.me/Mainak_09)
 * or email me at [mainakmayukh2000@gmail.com](mailto:mainakmayukh2000@gmail.com)

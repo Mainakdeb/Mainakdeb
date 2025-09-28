@@ -19,4 +19,4 @@ Past quests:
 
 📫 How to reach me: 
 * telegram [@Mainak_09](https://t.me/Mainak_09)
-* or email me at [mainakmayukh2000@gmail.com](mailto:mainakmayukh2000@gmail.com)
+* or email me at [mainakmayukh2000@gmail.com](mailto:mainakmayukh2000@gmail.com) or [mainak@gatech.edu](mailto:mainak@gatech.edu)
